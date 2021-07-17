@@ -1,5 +1,3 @@
-
-# the package used is speedtest-cli(it is the only package we need)
 import speedtest
 from time import sleep
 speed=speedtest.Speedtest()
